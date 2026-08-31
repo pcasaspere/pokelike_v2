@@ -41,7 +41,11 @@ Then open http://127.0.0.1:8000/ in your browser.
 Edit any file under `js/` or `css/` and reload the page (Cmd+Shift+R to bypass the
 cache). For example, battle values in `js/battle.js` or Pokémon data in `js/data.js`.
 
-## Credits
+## Disclaimer
 
-Fork of [pokelike.xyz](https://pokelike.xyz/). Fan-made project, not affiliated with
-Nintendo, Game Freak, or The Pokémon Company.
+Unofficial fan-made project. Not affiliated with, endorsed by, or
+sponsored by Nintendo, Game Freak, or The Pokémon Company.
+Pokémon and related names and characters are trademarks of their
+respective owners.
+
+Fork of [pokelike.xyz](https://pokelike.xyz/).
